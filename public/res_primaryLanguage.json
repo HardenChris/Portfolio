@@ -11,12 +11,12 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
+      "title": "Beastly Horns",
       "startDate": "CodeFellows Projects",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/chris/beastly_horns.jpg",
+        "images/portfolio/chris/Beastly Horns.jpg"
       ],
       "url": "",
       "technologies": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "Photography",
+      "title": "Final Lab",
       "startDate": "CodeFellows Projects",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
@@ -55,12 +55,12 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
+      "title": "Jack Black's Blackjack",
       "startDate": "CodeFellows Projects",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/chris/Jack Blacks Blackjack screen.jpg",
+        "images/portfolio/chris/JB-BJ-2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
